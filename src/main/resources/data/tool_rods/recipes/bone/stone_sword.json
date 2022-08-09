@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:bone_rod"
+    },
+    "X": {
+      "tag": "minecraft:stone_tool_materials"
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:stone_sword",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:sharpness",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

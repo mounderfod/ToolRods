@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:diamond_rod"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:iron_pickaxe",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:silk_touch",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

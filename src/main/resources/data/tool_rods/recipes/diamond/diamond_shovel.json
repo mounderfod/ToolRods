@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:diamond_rod"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:diamond_shovel",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:silk_touch",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

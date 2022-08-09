@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:emerald_rod"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:wooden_shovel",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:fortune",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

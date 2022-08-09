@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:emerald_rod"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:iron_shovel",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:fortune",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tool_rods:obsidian_rod"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:golden_sword",
+    "data": {
+      "Enchantments": [
+        {
+          "id": "minecraft:looting",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

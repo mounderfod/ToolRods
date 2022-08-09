@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tool_rods:item/emerald_rod"
+  }
+}
